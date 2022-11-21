@@ -13,3 +13,6 @@
  
 * No contexto deste conteúdo, a(s) pasta(s) "05 - objetos" possui(em) todo o código-fonte desenvolvido durantes as aulas.
  
+[Link da aula no GitHub:arrays e estruturas de repetição](https://github.com/digitalinnovationone/javascript-developer-m1*)
+ 
+* No contexto deste conteúdo, a(s) pasta(s) "06 - listas (arrays)" possui(em) todo o código-fonte desenvolvido durantes as aulas. 
